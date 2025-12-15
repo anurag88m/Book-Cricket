@@ -1,0 +1,5 @@
+{
+  "name": "Retro Book Cricket",
+  "description": "A classic Flash-game style Book Cricket implementation with 1P/2P modes, authentic scoring rules, and animations.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Retro Book Cricket",
+  "short_name": "BookCricket",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#a93226",
+  "description": "A classic Flash-game style Book Cricket implementation.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1055/1055668.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
